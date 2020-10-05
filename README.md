@@ -1,5 +1,5 @@
 # Apunts del curs
-- [HTML]()
+- [HTML](./html.md)
 - [CSS](./css.md)
-- [JavasCript]()
-- [DOM]()
+- [JavaScript](./javascript.md)
+- [DOM](./dom.md)
