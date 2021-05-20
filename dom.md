@@ -856,7 +856,7 @@ Podeu veure aquest exemple en l'enllaç següent: codepen.io/ioc-daw-m06/pen/rrV
 
 Fixeu-vos queonloadés una drecera per l' event load, així doncs es podria haver fet servir també el mètode `addEventListener` per afegir la detecció de l'event.
 
-Per altra banda, l'extensióHTMLDocumentafegeixforms a la propietat, que permet accedir a una llista d'objectes que conté la informació de tots els formularis del document i, al seu torn, cadascun d'aquests formularis permet accedir als seus elements:
+Per altra banda, l'extensió HTMLDocument afegeix forms a la propietat, que permet accedir a una llista d'objectes que conté la informació de tots els formularis del document i, al seu torn, cadascun d'aquests formularis permet accedir als seus elements:
 
 ```html
 
